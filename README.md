@@ -17,7 +17,7 @@
   <li>También disfruto trabajar con bases de datos, procesos ETL y herramientas de visualización como Power BI</li>
   <li>Autodidacta, entusiasta del aprendizaje y con ganas de seguir creciendo</li>
   <li>En búsqueda de mi primer empleo IT para aplicar y seguir desarrollando mis habilidades</li>
-  <li><a href="https://drive.google.com/file/d/1UTI6WEeZQJ6V0LCmhabpdmUbvfXKgb84/view?usp=sharing" target="_blank">Este es mi CV</a></li>
+  <li><a href="https://drive.google.com/file/d/1FbTZfGOpFTnG9H1vB-skvlaa5-1bo56K/view?usp=sharing" target="_blank">Este es mi CV</a></li>
 </ul>
 
 <br><br>
